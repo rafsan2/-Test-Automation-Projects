@@ -1,0 +1,147 @@
+line 11 column 5 - Warning: <meta> lacks "content" attribute
+line 20 column 5 - Warning: <script> lacks "type" attribute
+line 23 column 5 - Warning: <script> lacks "type" attribute
+line 26 column 5 - Warning: <script> lacks "type" attribute
+line 32 column 5 - Warning: <script> lacks "type" attribute
+line 41 column 5 - Warning: <script> lacks "type" attribute
+line 57 column 5 - Error: <nav> is not recognized!
+line 57 column 5 - Warning: discarding unexpected <nav>
+line 60 column 14 - Warning: unknown attribute "aria-label"
+line 60 column 14 - Warning: unknown attribute "aria-expanded"
+line 60 column 14 - Warning: unknown attribute "aria-controls"
+line 60 column 14 - Warning: unknown attribute "data-bs-target"
+line 60 column 14 - Warning: unknown attribute "data-bs-toggle"
+line 63 column 47 - Warning: trimming empty <span>
+line 64 column 13 - Warning: trimming empty <button>
+line 68 column 25 - Warning: unknown attribute "aria-current"
+line 75 column 45 - Warning: missing <li>
+line 75 column 207 - Warning: trimming empty <div>
+line 76 column 45 - Warning: trimming empty <li>
+line 81 column 142 - Warning: Warning: unescaped & which should be written as &amp;
+line 85 column 167 - Warning: Warning: unescaped & which should be written as &amp;
+line 91 column 56 - Warning: missing <li>
+line 92 column 90 - Warning: missing </a> before <h5>
+line 92 column 131 - Warning: discarding unexpected </a>
+line 135 column 25 - Warning: unknown attribute "aria-current"
+line 141 column 45 - Warning: missing <li>
+line 142 column 80 - Warning: trimming empty <div>
+line 143 column 45 - Warning: trimming empty <li>
+line 173 column 122 - Warning: Warning: unescaped & which should be written as &amp;
+line 188 column 25 - Warning: unknown attribute "aria-current"
+line 194 column 45 - Warning: missing <li>
+line 195 column 80 - Warning: trimming empty <div>
+line 196 column 45 - Warning: trimming empty <li>
+line 232 column 25 - Warning: unknown attribute "aria-current"
+line 238 column 45 - Warning: missing <li>
+line 238 column 241 - Warning: trimming empty <div>
+line 239 column 45 - Warning: trimming empty <li>
+line 266 column 21 - Warning: missing </div> before <li>
+line 266 column 21 - Warning: inserting implicit <ul>
+line 267 column 25 - Warning: unknown attribute "aria-expanded"
+line 267 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 267 column 25 - Warning: unknown attribute "role"
+line 270 column 26 - Warning: unknown attribute "aria-labelledby"
+line 271 column 29 - Warning: missing <li>
+line 273 column 33 - Warning: missing </div> before <li>
+line 273 column 33 - Warning: inserting implicit <ul>
+line 275 column 91 - Warning: Warning: unescaped & which should be written as &amp;
+line 276 column 25 - Warning: missing </ul> before </div>
+line 279 column 33 - Warning: missing </div> before <li>
+line 279 column 33 - Warning: inserting implicit <ul>
+line 281 column 25 - Warning: missing </ul> before </div>
+line 284 column 33 - Warning: missing </div> before <li>
+line 284 column 33 - Warning: inserting implicit <ul>
+line 287 column 25 - Warning: missing </ul> before </div>
+line 290 column 33 - Warning: missing </div> before <li>
+line 290 column 33 - Warning: inserting implicit <ul>
+line 293 column 25 - Warning: missing </ul> before </div>
+line 296 column 33 - Warning: missing </div> before <li>
+line 296 column 33 - Warning: inserting implicit <ul>
+line 297 column 25 - Warning: missing </ul> before </div>
+line 302 column 25 - Warning: unknown attribute "aria-expanded"
+line 302 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 302 column 25 - Warning: unknown attribute "role"
+line 302 column 25 - Warning: <a> Anchor "navbarScrollingDropdown" already defined
+line 305 column 26 - Warning: unknown attribute "aria-labelledby"
+line 306 column 29 - Warning: missing <li>
+line 308 column 33 - Warning: missing </div> before <li>
+line 308 column 33 - Warning: inserting implicit <ul>
+line 310 column 25 - Warning: missing </ul> before </div>
+line 313 column 33 - Warning: missing </div> before <li>
+line 313 column 33 - Warning: inserting implicit <ul>
+line 315 column 25 - Warning: missing </ul> before </div>
+line 318 column 33 - Warning: missing </div> before <li>
+line 318 column 33 - Warning: inserting implicit <ul>
+line 322 column 25 - Warning: missing </ul> before </div>
+line 325 column 33 - Warning: missing </div> before <li>
+line 325 column 33 - Warning: inserting implicit <ul>
+line 326 column 70 - Warning: Warning: unescaped & which should be written as &amp;
+line 328 column 25 - Warning: missing </ul> before </div>
+line 332 column 25 - Warning: unknown attribute "aria-expanded"
+line 332 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 332 column 25 - Warning: unknown attribute "role"
+line 332 column 25 - Warning: <a> Anchor "navbarScrollingDropdown" already defined
+line 335 column 26 - Warning: unknown attribute "aria-labelledby"
+line 336 column 29 - Warning: missing <li>
+line 344 column 33 - Warning: missing </div> before <li>
+line 344 column 33 - Warning: inserting implicit <ul>
+line 348 column 25 - Warning: missing </ul> before </div>
+line 351 column 33 - Warning: missing </div> before <li>
+line 351 column 33 - Warning: inserting implicit <ul>
+line 354 column 25 - Warning: missing </ul> before </div>
+line 358 column 25 - Warning: unknown attribute "aria-expanded"
+line 358 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 358 column 25 - Warning: unknown attribute "role"
+line 358 column 25 - Warning: <a> Anchor "navbarScrollingDropdown" already defined
+line 361 column 26 - Warning: unknown attribute "aria-labelledby"
+line 362 column 29 - Warning: missing <li>
+line 372 column 21 - Warning: missing <li>
+line 379 column 13 - Warning: missing </ul> before </div>
+line 390 column 1 - Warning: discarding unexpected </nav>
+line 391 column 1 - Warning: <script> lacks "type" attribute
+line 459 column 5 - Warning: unknown attribute "role"
+line 462 column 5 - Error: <section> is not recognized!
+line 462 column 5 - Warning: discarding unexpected <section>
+line 465 column 147 - Warning: trimming empty <div>
+line 467 column 96 - Warning: trimming empty <div>
+line 485 column 1 - Warning: discarding unexpected </section>
+line 487 column 5 - Error: <section> is not recognized!
+line 487 column 5 - Warning: discarding unexpected <section>
+line 505 column 1 - Warning: discarding unexpected </section>
+line 509 column 13 - Error: <section> is not recognized!
+line 509 column 13 - Warning: discarding unexpected <section>
+line 512 column 48 - Warning: trimming empty <div>
+line 528 column 25 - Warning: unknown attribute "role"
+line 528 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 536 column 9 - Warning: discarding unexpected </section>
+line 539 column 13 - Warning: unknown attribute "aria-labelledby"
+line 539 column 13 - Warning: unknown attribute "aria-hidden"
+line 547 column 13 - Error: <section> is not recognized!
+line 547 column 13 - Warning: discarding unexpected <section>
+line 550 column 49 - Warning: trimming empty <div>
+line 566 column 25 - Warning: unknown attribute "role"
+line 566 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 574 column 9 - Warning: discarding unexpected </section>
+line 577 column 13 - Warning: unknown attribute "aria-labelledby"
+line 577 column 13 - Warning: unknown attribute "aria-hidden"
+line 585 column 13 - Error: <section> is not recognized!
+line 585 column 13 - Warning: discarding unexpected <section>
+line 588 column 48 - Warning: trimming empty <div>
+line 604 column 25 - Warning: unknown attribute "role"
+line 604 column 25 - Warning: unknown attribute "data-bs-toggle"
+line 612 column 9 - Warning: discarding unexpected </section>
+line 615 column 13 - Warning: unknown attribute "aria-labelledby"
+line 615 column 13 - Warning: unknown attribute "aria-hidden"
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+189 warnings, 13 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+For further advice on how to make your pages accessible
+see "http://www.w3.org/WAI/GL". You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
