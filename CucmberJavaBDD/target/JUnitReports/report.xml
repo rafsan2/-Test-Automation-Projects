@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="3" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="16.986">
+    <testcase classname="Title of your feature" name="Title of your scenario" time="0.028">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given I want to write a step with precondition..............................undefined
+And some other precondition.................................................skipped
+When I complete action......................................................skipped
+And some other action.......................................................skipped
+And yet another action......................................................skipped
+Then I validate the outcomes................................................skipped
+And check more outcomes.....................................................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="Title of your feature" name="Title of your scenario outline" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given I want to write a step with name1.....................................undefined
+When I check for the 5 in step..............................................skipped
+Then I verify the success in step...........................................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="Title of your feature" name="Title of your scenario outline 2" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given I want to write a step with name2.....................................undefined
+When I check for the 7 in step..............................................skipped
+Then I verify the Fail in step..............................................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="feature to test google search fucntionality" name="Validate google search is working" time="16.779">
+        <system-out><![CDATA[Given browser is open.......................................................passed
+And user is on google search page...........................................passed
+When user enters a text in search box.......................................passed
+And hits enter..............................................................passed
+Then user is navigated to search results....................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="feature to test login automatically" name="Check login is successful with valid credentials" time="0.002">
+        <system-out><![CDATA[Given user is on login page.................................................passed
+When user enters username and password......................................passed
+And clicks on login button..................................................passed
+Then user is navigated to home page.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
